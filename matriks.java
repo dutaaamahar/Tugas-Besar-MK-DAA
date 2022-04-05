@@ -5,7 +5,7 @@ package praktikum;
 
 import java.util.Scanner;
 
-public class Matriks {
+public class matriks {
     
     public static int[][] inputMatriks(int index) {
         Scanner input = new Scanner(System.in);
